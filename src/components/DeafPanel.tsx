@@ -145,7 +145,7 @@ export const DeafPanel: React.FC<DeafPanelProps> = ({ language, isActive }) => {
     }
   };
 
-  // Simulated landmark detection for demonstration
+  // Fallback landmark canvas overlay
   const simulateHandDetection = () => {
     const canvas = canvasRef.current;
     if (!canvas || !videoRef.current) return;

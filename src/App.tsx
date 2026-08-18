@@ -73,7 +73,7 @@ export function App() {
             <div>
               <p className="text-xs font-medium text-slate-700 dark:text-slate-200">
                 <strong className="text-slate-900 dark:text-white">
-                  {activeView === 'translator' ? 'Demo Flow:' : 'Sign Practice & Quiz Mode:'}
+                  {activeView === 'translator' ? 'Translation Workflow:' : 'Sign Practice & Quiz Mode:'}
                 </strong>{' '}
                 {activeView === 'translator'
                   ? 'Left side translates Speech/Text to Sign Clips & 21-point Keypoint Canvas. Right side extracts MediaPipe hand landmarks in real-time to translate gestures to Speech.'

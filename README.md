@@ -1,5 +1,7 @@
 # SignBridge 🤟 — Two-Way Sign Language Translator (ASL & ISL)
 
+🚀 **Live Application:** [https://signbridge-mu-five.vercel.app/](https://signbridge-mu-five.vercel.app/)
+
 SignBridge is an accessible, client-side web application designed to bridge the communication gap between hearing individuals and Deaf/hard-of-hearing individuals in real-time. Built for high performance, it operates completely client-side without requiring paid cloud APIs.
 
 ---
@@ -64,7 +66,7 @@ SignBridge is an accessible, client-side web application designed to bridge the 
 
 ---
 
-## 🎬 Demo Flow Walkthrough
+## 🎬 Application Walkthrough
 
 ### Scenario A: Hearing Person to Deaf Person (Mic → Sign Video)
 1. Ensure **ASL** or **ISL** is selected in the top bar.
