@@ -103,3 +103,4 @@ SignBridge is an accessible, client-side web application designed to bridge the 
 
 ## 📄 License
 MIT License - Built for Build with Bharat Hackathon 2026.
+
