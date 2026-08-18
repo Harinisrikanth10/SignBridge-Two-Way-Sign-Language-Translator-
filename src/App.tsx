@@ -73,7 +73,7 @@ export function App() {
             <div>
               <p className="text-xs font-medium text-slate-700 dark:text-slate-200">
                 <strong className="text-slate-900 dark:text-white">
-                  {activeView === 'translator' ? 'Hackathon Demo Flow:' : 'Sign Practice & Quiz Mode:'}
+                  {activeView === 'translator' ? 'Demo Flow:' : 'Sign Practice & Quiz Mode:'}
                 </strong>{' '}
                 {activeView === 'translator'
                   ? 'Left side translates Speech/Text to Sign Clips & 21-point Keypoint Canvas. Right side extracts MediaPipe hand landmarks in real-time to translate gestures to Speech.'
@@ -124,7 +124,7 @@ export function App() {
 
       {/* Footer */}
       <footer className="w-full border-t border-slate-200 dark:border-slate-900 py-4 px-6 text-center text-xs text-slate-500 dark:text-slate-400 transition-colors">
-        <p>SignBridge Hackathon MVP — Supporting ASL & ISL client-side gesture recognition via MediaPipe Hands & Web Speech API.</p>
+        <p>SignBridge — Supporting ASL & ISL client-side gesture recognition via MediaPipe Hands & Web Speech API.</p>
       </footer>
 
       {/* Dictionary Explorer Modal */}

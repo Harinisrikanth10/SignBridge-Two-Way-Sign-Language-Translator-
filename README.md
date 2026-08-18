@@ -1,6 +1,6 @@
 # SignBridge 🤟 — Two-Way Sign Language Translator (ASL & ISL)
 
-SignBridge is an accessible, client-side web application designed to bridge the communication gap between hearing individuals and Deaf/hard-of-hearing individuals in real-time. Built for hackathon performance, it operates completely client-side without requiring paid cloud APIs.
+SignBridge is an accessible, client-side web application designed to bridge the communication gap between hearing individuals and Deaf/hard-of-hearing individuals in real-time. Built for high performance, it operates completely client-side without requiring paid cloud APIs.
 
 ---
 
@@ -32,7 +32,7 @@ SignBridge is an accessible, client-side web application designed to bridge the 
 | **ASL** (American Sign Language) | 32 Core Words & Phrases (*hello, thank you, yes, no, help, water, food, please, sorry, my name is, I love you, friend, family, etc.*) | Full A-Z (26 letters) | One-Handed | 100% Client-side structured vectors & clips |
 | **ISL** (Indian Sign Language) | 18 Core Words & Phrases (*hello, namaste, thank you, yes, no, help, water, food, please, sorry, friend, etc.*) | Full A-Z (26 letters) | Two-Handed | 100% Client-side structured vectors & clips |
 
-> *Note for Hackathon Evaluators:* To keep the hackathon build lightweight and fast, visual signs use high-fidelity vector handshape diagrams and animated canvas clips. Expanding to full 4K MP4 sign video files per word is supported natively by the JSON schema.
+> *Note:* To keep the build lightweight and fast, visual signs use high-fidelity vector handshape diagrams and animated canvas clips. Expanding to full 4K MP4 sign video files per word is supported natively by the JSON schema.
 
 ---
 
@@ -64,7 +64,7 @@ SignBridge is an accessible, client-side web application designed to bridge the 
 
 ---
 
-## 🎬 Hackathon Demo Flow Walkthrough
+## 🎬 Demo Flow Walkthrough
 
 ### Scenario A: Hearing Person to Deaf Person (Mic → Sign Video)
 1. Ensure **ASL** or **ISL** is selected in the top bar.
@@ -102,5 +102,5 @@ SignBridge is an accessible, client-side web application designed to bridge the 
 ---
 
 ## 📄 License
-MIT License - Built for Build with Bharat Hackathon 2026.
+MIT License.
 

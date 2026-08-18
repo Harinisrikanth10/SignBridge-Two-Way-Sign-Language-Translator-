@@ -38,9 +38,6 @@ export const Navbar: React.FC<NavbarProps> = ({
               <h1 className="text-xl font-extrabold tracking-tight bg-gradient-to-r from-slate-900 via-slate-800 to-slate-600 dark:from-white dark:via-slate-100 dark:to-slate-400 bg-clip-text text-transparent">
                 SignBridge
               </h1>
-              <span className="px-2 py-0.5 text-xs font-semibold rounded-full bg-indigo-100 dark:bg-indigo-500/20 text-indigo-700 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-500/30">
-                Hackathon MVP
-              </span>
             </div>
             <p className="text-xs text-slate-500 dark:text-slate-400">
               Two-Way Accessible Sign Language Translation & Trainer
