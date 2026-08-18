@@ -1,0 +1,32 @@
+{
+  "language": "ASL",
+  "type": "one-handed",
+  "alphabet": {
+    "A": { "filename": "asl_a.png", "hands": 1, "description": "Fist with thumb pointing straight up alongside index finger" },
+    "B": { "filename": "asl_b.png", "hands": 1, "description": "Flat palm facing out, four fingers straight together, thumb tucked over palm" },
+    "C": { "filename": "asl_c.png", "hands": 1, "description": "Curved hand forming C shape with fingers and thumb" },
+    "D": { "filename": "asl_d.png", "hands": 1, "description": "Index finger pointing up, thumb touching tips of middle, ring, and pinky" },
+    "E": { "filename": "asl_e.png", "hands": 1, "description": "Fingers curled down onto thumb tip" },
+    "F": { "filename": "asl_f.png", "hands": 1, "description": "Index finger touching thumb tip forming circle, middle, ring, pinky fan up" },
+    "G": { "filename": "asl_g.png", "hands": 1, "description": "Index finger and thumb pointing parallel horizontally" },
+    "H": { "filename": "asl_h.png", "hands": 1, "description": "Index and middle fingers extended together horizontally" },
+    "I": { "filename": "asl_i.png", "hands": 1, "description": "Pinky finger pointing straight up, fist closed" },
+    "J": { "filename": "asl_j.png", "hands": 1, "description": "Pinky extended, drawing a J-hook in midair" },
+    "K": { "filename": "asl_k.png", "hands": 1, "description": "Index straight up, middle finger angled forward, thumb resting on middle finger" },
+    "L": { "filename": "asl_l.png", "hands": 1, "description": "Index finger up and thumb extended perpendicular forming L shape" },
+    "M": { "filename": "asl_m.png", "hands": 1, "description": "Thumb tucked under first three fingers (index, middle, ring)" },
+    "N": { "filename": "asl_n.png", "hands": 1, "description": "Thumb tucked under first two fingers (index, middle)" },
+    "O": { "filename": "asl_o.png", "hands": 1, "description": "All fingertips touch thumb tip forming O circle" },
+    "P": { "filename": "asl_p.png", "hands": 1, "description": "K-handshape pointing downwards" },
+    "Q": { "filename": "asl_q.png", "hands": 1, "description": "G-handshape pointing downwards" },
+    "R": { "filename": "asl_r.png", "hands": 1, "description": "Index and middle fingers crossed" },
+    "S": { "filename": "asl_s.png", "hands": 1, "description": "Fist with thumb crossed over index and middle fingers" },
+    "T": { "filename": "asl_t.png", "hands": 1, "description": "Thumb tucked under index finger only" },
+    "U": { "filename": "asl_u.png", "hands": 1, "description": "Index and middle fingers extended straight up together" },
+    "V": { "filename": "asl_v.png", "hands": 1, "description": "Index and middle fingers extended straight up spread apart in V" },
+    "W": { "filename": "asl_w.png", "hands": 1, "description": "Index, middle, and ring fingers extended up spread apart" },
+    "X": { "filename": "asl_x.png", "hands": 1, "description": "Index finger bent like a hook, fist closed" },
+    "Y": { "filename": "asl_y.png", "hands": 1, "description": "Thumb and pinky extended out, middle three fingers folded in" },
+    "Z": { "filename": "asl_z.png", "hands": 1, "description": "Index finger extended, tracing a Z path in midair" }
+  }
+}

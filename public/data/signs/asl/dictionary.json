@@ -1,0 +1,199 @@
+{
+  "language": "ASL",
+  "languageName": "American Sign Language",
+  "totalWords": 32,
+  "dictionary": {
+    "hello": {
+      "filename": "hello.mp4",
+      "label": "Hello",
+      "category": "Greetings",
+      "description": "Place flat dominant hand at forehead, palm facing out, move outward in a slight salute."
+    },
+    "thank you": {
+      "filename": "thank_you.mp4",
+      "label": "Thank You",
+      "category": "Polite Phrases",
+      "description": "Touch fingers of flat dominant hand to chin/lips, then move forward toward the person."
+    },
+    "thanks": {
+      "filename": "thank_you.mp4",
+      "label": "Thanks",
+      "category": "Polite Phrases",
+      "description": "Touch fingers of flat dominant hand to chin/lips, then move forward toward the person."
+    },
+    "yes": {
+      "filename": "yes.mp4",
+      "label": "Yes",
+      "category": "Common",
+      "description": "Make an S-fist and nod it up and down like a head nodding."
+    },
+    "no": {
+      "filename": "no.mp4",
+      "label": "No",
+      "category": "Common",
+      "description": "Tap index and middle fingers together with thumb rapidly."
+    },
+    "help": {
+      "filename": "help.mp4",
+      "label": "Help",
+      "category": "Essential",
+      "description": "Place dominant A-fist thumbs up on top of flat non-dominant palm, lift together."
+    },
+    "water": {
+      "filename": "water.mp4",
+      "label": "Water",
+      "category": "Needs",
+      "description": "Tap index finger of W-handshape to chin twice."
+    },
+    "food": {
+      "filename": "food.mp4",
+      "label": "Food",
+      "category": "Needs",
+      "description": "Tap flat O-handshape against lips twice."
+    },
+    "eat": {
+      "filename": "food.mp4",
+      "label": "Eat",
+      "category": "Needs",
+      "description": "Tap flat O-handshape against lips twice."
+    },
+    "please": {
+      "filename": "please.mp4",
+      "label": "Please",
+      "category": "Polite Phrases",
+      "description": "Rub flat dominant palm in circular motion over chest."
+    },
+    "sorry": {
+      "filename": "sorry.mp4",
+      "label": "Sorry",
+      "category": "Polite Phrases",
+      "description": "Rub S-fist in circular motion over chest."
+    },
+    "my name is": {
+      "filename": "my_name_is.mp4",
+      "label": "My Name Is",
+      "category": "Greetings",
+      "description": "Pat chest with flat hand (MY), tap double-index H/N hands (NAME)."
+    },
+    "good morning": {
+      "filename": "good_morning.mp4",
+      "label": "Good Morning",
+      "category": "Greetings",
+      "description": "Touch chin with flat hand (GOOD), raise non-dominant hand while arc up dominant arm (MORNING)."
+    },
+    "nice to meet you": {
+      "filename": "nice_to_meet_you.mp4",
+      "label": "Nice To Meet You",
+      "category": "Greetings",
+      "description": "Slide top hand over bottom hand (NICE), bring index fingers together (MEET YOU)."
+    },
+    "i love you": {
+      "filename": "i_love_you.mp4",
+      "label": "I Love You",
+      "category": "Expressions",
+      "description": "Extend thumb, index, and pinky finger simultaneously (ILY handshape)."
+    },
+    "friend": {
+      "filename": "friend.mp4",
+      "label": "Friend",
+      "category": "People",
+      "description": "Hook index fingers together, flip and hook the opposite way."
+    },
+    "family": {
+      "filename": "family.mp4",
+      "label": "Family",
+      "category": "People",
+      "description": "Touch thumbs of F-handshapes together, circle around until pinkies touch."
+    },
+    "stop": {
+      "filename": "stop.mp4",
+      "label": "Stop",
+      "category": "Actions",
+      "description": "Chop edge of dominant open hand firmly into non-dominant palm."
+    },
+    "go": {
+      "filename": "go.mp4",
+      "label": "Go",
+      "category": "Actions",
+      "description": "Point both index fingers forward away from body."
+    },
+    "where": {
+      "filename": "where.mp4",
+      "label": "Where",
+      "category": "Questions",
+      "description": "Hold index finger up (1-handshape) and wag side to side."
+    },
+    "what": {
+      "filename": "what.mp4",
+      "label": "What",
+      "category": "Questions",
+      "description": "Hold open hands upward and shake palms back and forth."
+    },
+    "why": {
+      "filename": "why.mp4",
+      "label": "Why",
+      "category": "Questions",
+      "description": "Touch forehead with flat hand, pull away into Y-handshape."
+    },
+    "how": {
+      "filename": "how.mp4",
+      "label": "How",
+      "category": "Questions",
+      "description": "Place bent knuckles together, roll hands forward outward."
+    },
+    "understand": {
+      "filename": "understand.mp4",
+      "label": "Understand",
+      "category": "Cognitive",
+      "description": "Flick index finger up from fist near forehead like a light bulb."
+    },
+    "deaf": {
+      "filename": "deaf.mp4",
+      "label": "Deaf",
+      "category": "Identity",
+      "description": "Touch index finger to cheek near ear, then move to cheek near mouth."
+    },
+    "hearing": {
+      "filename": "hearing.mp4",
+      "label": "Hearing",
+      "category": "Identity",
+      "description": "Rotate horizontal index finger forward near lips."
+    },
+    "sign": {
+      "filename": "sign.mp4",
+      "label": "Sign",
+      "category": "Communication",
+      "description": "Rotate 1-handshapes around each other in backwards circles."
+    },
+    "doctor": {
+      "filename": "doctor.mp4",
+      "label": "Doctor",
+      "category": "Roles",
+      "description": "Tap bent D/M fingertips on non-dominant wrist pulse point."
+    },
+    "hospital": {
+      "filename": "hospital.mp4",
+      "label": "Hospital",
+      "category": "Places",
+      "description": "Draw an H-cross on upper non-dominant arm with H-handshape."
+    },
+    "home": {
+      "filename": "home.mp4",
+      "label": "Home",
+      "category": "Places",
+      "description": "Touch flat O-handshape to cheek near mouth, then cheek near ear."
+    },
+    "peace": {
+      "filename": "peace.mp4",
+      "label": "Peace",
+      "category": "Expressions",
+      "description": "Form a V-sign with index and middle fingers extended high."
+    },
+    "good": {
+      "filename": "good.mp4",
+      "label": "Good",
+      "category": "Expressions",
+      "description": "Touch fingers to lips with flat hand and lower into non-dominant palm."
+    }
+  }
+}

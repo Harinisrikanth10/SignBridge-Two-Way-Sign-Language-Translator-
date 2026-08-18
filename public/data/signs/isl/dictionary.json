@@ -1,0 +1,115 @@
+{
+  "language": "ISL",
+  "languageName": "Indian Sign Language",
+  "totalWords": 18,
+  "dictionary": {
+    "hello": {
+      "filename": "isl_hello.mp4",
+      "label": "Hello / Namaste",
+      "category": "Greetings",
+      "description": "Press both palms together near chest in traditional Namaste gesture."
+    },
+    "namaste": {
+      "filename": "isl_namaste.mp4",
+      "label": "Namaste",
+      "category": "Greetings",
+      "description": "Press both palms together near chest with a slight head bow."
+    },
+    "thank you": {
+      "filename": "isl_thank_you.mp4",
+      "label": "Thank You",
+      "category": "Polite Phrases",
+      "description": "Touch both hands to chin and open palms forward toward person."
+    },
+    "thanks": {
+      "filename": "isl_thank_you.mp4",
+      "label": "Thanks",
+      "category": "Polite Phrases",
+      "description": "Touch both hands to chin and open palms forward toward person."
+    },
+    "yes": {
+      "filename": "isl_yes.mp4",
+      "label": "Yes",
+      "category": "Common",
+      "description": "Form a fist and move hand up and down firmly twice."
+    },
+    "no": {
+      "filename": "isl_no.mp4",
+      "label": "No",
+      "category": "Common",
+      "description": "Wave open flat hand side to side horizontally in front of chest."
+    },
+    "help": {
+      "filename": "isl_help.mp4",
+      "label": "Help",
+      "category": "Essential",
+      "description": "Place right fist onto left flat palm and raise both upwards."
+    },
+    "water": {
+      "filename": "isl_water.mp4",
+      "label": "Water",
+      "category": "Needs",
+      "description": "Form cup with hand and bring toward mouth as if drinking."
+    },
+    "food": {
+      "filename": "isl_food.mp4",
+      "label": "Food",
+      "category": "Needs",
+      "description": "Gather all fingertips together and touch to mouth twice."
+    },
+    "eat": {
+      "filename": "isl_food.mp4",
+      "label": "Eat",
+      "category": "Needs",
+      "description": "Gather all fingertips together and touch to mouth twice."
+    },
+    "please": {
+      "filename": "isl_please.mp4",
+      "label": "Please",
+      "category": "Polite Phrases",
+      "description": "Place flat open right hand on heart and move in gentle circle."
+    },
+    "sorry": {
+      "filename": "isl_sorry.mp4",
+      "label": "Sorry",
+      "category": "Polite Phrases",
+      "description": "Place fist over center chest and move in gentle circular motion."
+    },
+    "friend": {
+      "filename": "isl_friend.mp4",
+      "label": "Friend",
+      "category": "People",
+      "description": "Clasp both hands together firmly as a handshake."
+    },
+    "my name is": {
+      "filename": "isl_my_name_is.mp4",
+      "label": "My Name Is",
+      "category": "Greetings",
+      "description": "Point to chest, then tap middle fingers of both hands together."
+    },
+    "good morning": {
+      "filename": "isl_good_morning.mp4",
+      "label": "Good Morning",
+      "category": "Greetings",
+      "description": "Thumbs up (GOOD) followed by sweeping sun arc up from horizon (MORNING)."
+    },
+    "stop": {
+      "filename": "isl_stop.mp4",
+      "label": "Stop",
+      "category": "Actions",
+      "description": "Hold both open palms straight forward toward person."
+    },
+    "deaf": {
+      "filename": "isl_deaf.mp4",
+      "label": "Deaf",
+      "category": "Identity",
+      "description": "Point index finger to ear then place flat palm over mouth."
+    },
+    "peace": {
+      "filename": "isl_peace.mp4",
+      "label": "Peace",
+      "category": "Expressions",
+      "description": "Cross wrists in front of chest then open out smoothly."
+    }
+  }
+}

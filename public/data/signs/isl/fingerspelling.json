@@ -1,0 +1,32 @@
+{
+  "language": "ISL",
+  "type": "two-handed",
+  "alphabet": {
+    "A": { "filename": "isl_a.png", "hands": 2, "description": "Left index finger points to tip of right thumb" },
+    "B": { "filename": "isl_b.png", "hands": 2, "description": "Both hands form circles with thumb and index, joined together to form 8/B shape" },
+    "C": { "filename": "isl_c.png", "hands": 2, "description": "Right hand forms curved C shape while left hand supports base" },
+    "D": { "filename": "isl_d.png", "hands": 2, "description": "Left index finger straight up, right thumb and index form arc touching left index" },
+    "E": { "filename": "isl_e.png", "hands": 2, "description": "Left index finger points to tip of right index finger" },
+    "F": { "filename": "isl_f.png", "hands": 2, "description": "Index and middle fingers of right hand placed across index and middle fingers of left hand" },
+    "G": { "filename": "isl_g.png", "hands": 2, "description": "Both fists placed one on top of the other" },
+    "H": { "filename": "isl_h.png", "hands": 2, "description": "Right flat palm sweeps horizontally across left flat palm" },
+    "I": { "filename": "isl_i.png", "hands": 2, "description": "Left index finger points to tip of right middle finger" },
+    "J": { "filename": "isl_j.png", "hands": 2, "description": "Left index finger traces J shape on palm of right open hand" },
+    "K": { "filename": "isl_k.png", "hands": 2, "description": "Right index finger bent, hooked over straight left index finger" },
+    "L": { "filename": "isl_l.png", "hands": 2, "description": "Right index finger rests across palm of open left hand forming L" },
+    "M": { "filename": "isl_m.png", "hands": 2, "description": "Right three middle fingers rest across palm of left hand" },
+    "N": { "filename": "isl_n.png", "hands": 2, "description": "Right index and middle fingers rest across palm of left hand" },
+    "O": { "filename": "isl_o.png", "hands": 2, "description": "Left index finger points to tip of right ring finger" },
+    "P": { "filename": "isl_p.png", "hands": 2, "description": "Right index and thumb form circle touching tip of straight left index finger" },
+    "Q": { "filename": "isl_q.png", "hands": 2, "description": "Right index finger hooks into circle formed by left thumb and index" },
+    "R": { "filename": "isl_r.png", "hands": 2, "description": "Right index finger curled into palm of left open hand" },
+    "S": { "filename": "isl_s.png", "hands": 2, "description": "Right pinky hooked around left pinky finger" },
+    "T": { "filename": "isl_t.png", "hands": 2, "description": "Edge of right index finger touches side of left index finger" },
+    "U": { "filename": "isl_u.png", "hands": 2, "description": "Left index finger points to tip of right pinky finger" },
+    "V": { "filename": "isl_v.png", "hands": 2, "description": "Right V-fingers (index & middle) placed onto palm of flat left hand" },
+    "W": { "filename": "isl_w.png", "hands": 2, "description": "Both hands interlock fingers to form W zigzag" },
+    "X": { "filename": "isl_x.png", "hands": 2, "description": "Cross both index fingers horizontally in front of chest" },
+    "Y": { "filename": "isl_y.png", "hands": 2, "description": "Right index finger rests between thumb and index of left hand" },
+    "Z": { "filename": "isl_z.png", "hands": 2, "description": "Both palms flat pressed together sideways" }
+  }
+}
